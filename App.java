@@ -11,7 +11,7 @@ public class App {
         
 
         // b. test if number1 is greater than number2
-        if ( number1 > number2) {
+        if ( number1 < number2) {
             System.out.println("number1 is less than number2.");
         } 
 
