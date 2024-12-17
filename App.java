@@ -66,8 +66,8 @@ public class App {
 
         // 3. Make three typed variable = for eg, name1, name2 and name3. assign values.
         String name1 = "Subash";
-        String name2 = "Suraj";
-        String name3 = "Prabin";
+        String name2 = "Durga";
+        String name3 = "Narayan";
 
         // a. test if name1 and name2 are equal.
         if (name1.equals(name2))  {
