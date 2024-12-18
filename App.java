@@ -95,7 +95,7 @@ public class App {
 
 
         // 1. make an app which tells us what we can do depending on our age
-        int age = 45;
+        int age = 60;
         if(age > 0 && age < 18) {
             System.out.println("You are underage.");
         } else {
